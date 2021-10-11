@@ -1,4 +1,4 @@
-# Hackontosh-MSI-GF63-Thin-9SC-Catalina-Clover
+# Hackintosh-MSI-GF63-Thin-9SC-Catalina-Clover
 
 This is a Clover 5140 install for MacOS Catalina 10.15.7 (19H15)
 
