@@ -36,9 +36,10 @@ This is a Clover 5140 install for MacOS Catalina 10.15.7 (19H15)
 
 - [ ] nVidia GTX 1650 doesn't work, and I've disabled it in my build
 
-![1]
-![1]
-![1]
-![1]
-![1]
-![1]
+![1] (https://github.com/baooshacker/Hackontosh-MSI-GF63-Thin-9SC-Catalina/blob/main/IMG/1.png)
+![1](https://github.com/baooshacker/Hackontosh-MSI-GF63-Thin-9SC-Catalina/blob/main/IMG/2.png)
+![1](https://github.com/baooshacker/Hackontosh-MSI-GF63-Thin-9SC-Catalina/blob/main/IMG/3.png)
+![1](https://github.com/baooshacker/Hackontosh-MSI-GF63-Thin-9SC-Catalina/blob/main/IMG/4.png)
+![1](https://github.com/baooshacker/Hackontosh-MSI-GF63-Thin-9SC-Catalina/blob/main/IMG/5.png)
+![1](https://github.com/baooshacker/Hackontosh-MSI-GF63-Thin-9SC-Catalina/blob/main/IMG/6.png)
+![1](https://github.com/baooshacker/Hackontosh-MSI-GF63-Thin-9SC-Catalina/blob/main/IMG/7.png)
